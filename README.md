@@ -1,2 +1,2 @@
 # ML-Projects
-This repository consists code for various ml projects.
+This repository contains code for various ml projects.
